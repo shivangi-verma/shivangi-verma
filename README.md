@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">1️⃣ Project 1<br>2️⃣ Project 2<br> 3️⃣ Project 3</p>
+<p align="left">1️⃣ Banking App - <a href="https://bankingpaymentapp.netlify.app/">Live</a><br>2️⃣ Project 2<br> 3️⃣ Project 3</p>
 
 ###
 
