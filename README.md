@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">1️⃣ Banking App - <a href="https://bankingpaymentapp.netlify.app/">Live</a><br>2️⃣ HOMYZ: Real Estate - <a href="https://jolly-melba-8cb273.netlify.app/">Live</a> <br> 3️⃣ Project 3</p>
+<p align="left">1️⃣ Banking App - <a href="https://bankingpaymentapp.netlify.app/">Live</a><br>2️⃣ HOMYZ: Real Estate - <a href="https://jolly-melba-8cb273.netlify.app/">Live</a></p>
 
 ###
 
