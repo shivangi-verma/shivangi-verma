@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: Full Stack Web Dveloper<br>🎲 Fun fact: I have worked as a UI/UX Designer!</p>
+<p align="left">✨ Creating bugs since 2020<br>💻 I'm currently learning MERN Stack<br>🎯 Goals: Full Stack Web Dveloper<br>🎲 Fun fact: I have worked as a UI/UX Designer!</p>
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">1️⃣ Project 1<br>2️⃣ Project 2<br> 3️⃣ Project 3</p>
 
 ###
 
@@ -30,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  /> 
   <img width="12" /> 
 </div>
 
