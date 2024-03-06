@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>💻 I'm currently learning MERN Stack<br>🎯 Goals: Full Stack Web Dveloper<br>🎲 Fun fact: I have worked as a UI/UX Designer!</p>
+<p align="left">✨ Creating bugs since 2020<br>💻 I'm currently learning MERN Stack<br>🎯 Goals: Full Stack Web Dveloper<br>🎲 Fun fact: I am also a UI/UX Designer!</p>
 
 ###
 
