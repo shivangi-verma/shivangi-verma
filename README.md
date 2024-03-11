@@ -20,8 +20,8 @@
 
 <p align="left">
   1️⃣ Banking App - <a href="https://bankingpaymentapp.netlify.app/">Live</a><br>
-  2️⃣ HOMYZ: Real Estate - <a href="https://jolly-melba-8cb273.netlify.app/">Live</a><br>
-  3️⃣ Netflix UI Clone - <a href="https://netflix78.netlify.app/">Live</a><br>
+  2️⃣ HOMYZ: Real Estate - <a href="https://real-estate-app890.netlify.app/">Live</a><br>
+  3️⃣ Netflix UI Clone - <a href="https://netflix98.netlify.app/">Live</a><br>
 </p>
 
 ###
