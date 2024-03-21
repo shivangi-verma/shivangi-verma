@@ -19,9 +19,9 @@
 ###
 
 <p align="left">
-  1️⃣ Banking App - <a href="https://bankingpaymentapp.netlify.app/">Live</a><br>
-  2️⃣ HOMYZ: Real Estate - <a href="https://real-estate-app890.netlify.app/">Live</a><br>
-  3️⃣ Netflix UI Clone - <a href="https://netflix98.netlify.app/">Live</a><br>
+  1️⃣ Binge Basket - <a href="https://binge-basket.netlify.app/">Visit Site</a><br>
+  2️⃣ HOMYZ: Real Estate - <a href="https://real-estate-app890.netlify.app/">Visit Site</a><br>
+  3️⃣ Banking App - <a href="https://bankingpaymentapp.netlify.app/">Visit Site</a><br>
 </p>
 
 ###
@@ -33,9 +33,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> 
   <img width="12" /> 
