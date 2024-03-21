@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shivangi and I'm a Frontend Web Developer, from India</p>
+<p align="left">My name is Shivangi and I'm a Frontend Web Developer with experience in UI/UX Design, from India</p>
 
 ###
 
