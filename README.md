@@ -11,7 +11,7 @@ Skilled in developing interactive UI components, consuming REST APIs, and deploy
 ### 🌦️ Weather Dashboard  
 A responsive weather application built with React that displays real-time weather data, forecasts, and air quality information using the OpenWeather API.
 
-🔗 Live: https://app.netlify.com/projects/weatherdashboard3/overview
+🔗 Live:  https://weatherdashboard3.netlify.app/
 
 **Key Features**
 - Real-time weather data using REST APIs  
